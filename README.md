@@ -2,3 +2,4 @@
 
 ### Modules Installed
 pip install cvzone
+pip install mediapipe
